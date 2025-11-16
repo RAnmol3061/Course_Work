@@ -29,4 +29,6 @@ int main(){
         printf("Enter a valid choice");
         break;}
     }
+
+    return 0;
 }
