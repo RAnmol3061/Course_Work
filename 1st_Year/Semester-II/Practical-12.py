@@ -12,7 +12,7 @@ def get_length(sequence: list[int]) -> int:
     c = 0
     for i in sequence:
         c += 1
-    return c
+    return c  # Time Complexity: O(N)
 
 
 print(get_length(exp_list))
